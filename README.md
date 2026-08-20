@@ -1,4 +1,4 @@
-# ☕ JavaBasicModule
+#  JavaBasicModule
 
 A collection of hands-on Java exercises covering the language fundamentals — from variables to switch expressions.
 
